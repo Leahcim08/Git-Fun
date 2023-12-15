@@ -1,1 +1,6 @@
 This file has words in it
+git init
+git add .
+git commit -m ""
+git add remote origin "LINK"
+git push origin main
